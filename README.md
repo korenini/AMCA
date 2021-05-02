@@ -1,4 +1,4 @@
-# AMCC
+# AMCCA
 
-AMCA, is an alternative multicriteria clustering algorithm.
+AMCCA, is an alternative multicriteria clustering algorithm.
 Bojan Korenini
