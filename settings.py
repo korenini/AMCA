@@ -44,7 +44,7 @@ logging = False
 do_export = True
 
 # Output filename (without extension)
- output_name = "pareto"
+output_name = "pareto"
 
 # Precision used in output (doesn't affect precision in calculations)
 output_precision = 4
