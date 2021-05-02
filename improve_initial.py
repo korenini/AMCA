@@ -90,10 +90,6 @@ def improve_initial_workhorse(aclux, do_interchange, do_trace):
                     if do_trace:
                         trace_clu.append(np.copy(aclu))
                         trace_wss.append(ecs.allecswss_bvect(aclu))
-                    #
-                    if pset.test_improveinit:
-                        logme_string = "Iteration: %s, cur_wss: %s" % (while_loopcounter, str(cur_wss))
-                        logme_name(logme_string, "improve_initial_move_1k.txt")
 
                     flag_break = True
                     break
